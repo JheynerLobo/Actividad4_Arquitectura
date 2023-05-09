@@ -22,10 +22,10 @@ data class TaskEntity(
     @ColumnInfo(name = "taskId")
     val taskId: Int,
 
-    @ColumnInfo(name = "Título")
+    @ColumnInfo(name = "title")
     val title: String, // Task 1
 
-    @ColumnInfo(name = "Descripción")
+    @ColumnInfo(name = "body")
     val body: String, // Body 1
 
     @ColumnInfo(name = "status")

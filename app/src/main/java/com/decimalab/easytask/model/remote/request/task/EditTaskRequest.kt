@@ -8,9 +8,9 @@ data class EditTaskRequest(
     val id: Int, // 26
     @SerializedName("user_id")
     val userId: String, // 1
-    @SerializedName("Título")
+    @SerializedName("title")
     val title: String, // Title Update
-    @SerializedName("Descripción")
+    @SerializedName("body")
     val body: String, // Body 1
     @SerializedName("status")
     val status: String // PENDING

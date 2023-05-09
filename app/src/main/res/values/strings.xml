@@ -78,9 +78,9 @@
 
 
     <string-array name="task_status_list">
-        <item>PENDIENTE</item>
-        <item>EMPEZADA</item>
-        <item>COMPLETADA</item>
+        <item>PENDING</item>
+        <item>STARTED</item>
+        <item>COMPLETED</item>
     </string-array>
 
 
