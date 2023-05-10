@@ -2,10 +2,6 @@ package com.decimalab.easytask.model.local
 
 import android.content.SharedPreferences
 
-/**
- * Created by Shakil Ahmed Shaj on 15,April,2020.
- * shakilahmedshaj@gmail.com
- */
 class AppPreferences(private val prefs: SharedPreferences) {
 
     companion object {
