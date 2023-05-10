@@ -51,13 +51,13 @@ git clone https://github.com/JheynerLobo/Actividad4_Arquitectura
 Al descomprimir y abrir el proyecto en Android Studio, deberá dejar descargar las dependencias del proyecto.
 
 ##### 3. Seleccionar un emulador
-seleccionará en dode se encuentra el cuadrado rojo
+seleccionará en donde se encuentra el cuadrado rojo.
 ![imagen1](https://github.com/JheynerLobo/Actividad4_Arquitectura/assets/84026784/1444c820-5302-4b20-b415-f904ad5deed9)
 Luego en Create Device.
 ![imagen2](https://github.com/JheynerLobo/Actividad4_Arquitectura/assets/84026784/832be94f-3a04-4878-9469-5709dce571d4)
 Luego será redireccionado a la siguiente pestaña donde seleccionará cualquier tenga en cuenta que entre más arriba el dispositivo más recurso consumirá y darle click en NEXT.
 ![image](https://github.com/JheynerLobo/Actividad4_Arquitectura/assets/84026784/4d579321-4bed-44bb-b47a-c0a582c777d9)
-Luego deberá seleccionará la imagen del sistema, debrá darle a Next y por último a Finish, en este paso tendrá que descargar la imagen, la cual en su mayoría pesa más de 1 Gb y el tiempo de descarga dependerá de la conexión a Internet.
+Luego deberá seleccionará la imagen del sistema, deberá darle a Next y por último a Finish, en este paso tendrá que descargar la imagen, la cual en su mayoría pesa más de 1 Gb y el tiempo de descarga dependerá de la conexión a Internet.
 ![image](https://github.com/JheynerLobo/Actividad4_Arquitectura/assets/84026784/a343fa2a-2b73-40d3-80de-6d364840f060)
 ##### 6. Correr el Emulador
 Después de descargar el emulador y la imagen podrá correr el emulador dando click en el cuadrado marcado en la siguiente imagen.
