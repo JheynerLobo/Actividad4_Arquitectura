@@ -2,10 +2,6 @@ package com.decimalab.easytask.model.remote.request.task
 
 import com.google.gson.annotations.SerializedName
 
-/**
- * Created by Shakil Ahmed Shaj on 30,April,2020.
- * shakilahmedshaj@gmail.com
- */
 data class DeleteTaskRequest(
     @SerializedName("id")
     val id: String,
