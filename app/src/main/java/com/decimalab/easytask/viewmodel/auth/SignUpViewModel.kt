@@ -11,10 +11,7 @@ import com.decimalab.easytask.model.repository.RegisterRepository
 import kotlinx.coroutines.launch
 import retrofit2.HttpException
 
-/**
- * Created by Shakil Ahmed Shaj on 14,April,2020.
- * shakilahmedshaj@gmail.com
- */
+
 class SignUpViewModel : ViewModel() {
 
     companion object {
