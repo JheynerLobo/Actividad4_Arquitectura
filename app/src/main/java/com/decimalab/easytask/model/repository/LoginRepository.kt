@@ -5,10 +5,7 @@ import com.decimalab.easytask.model.remote.NetworkService
 import com.decimalab.easytask.model.remote.request.auth.LoginRequest
 import com.decimalab.easytask.model.remote.response.auth.LoginResponse
 
-/**
- * Created by Shakil Ahmed Shaj on 14,April,2020.
- * shakilahmedshaj@gmail.com
- */
+
 class LoginRepository(
     private val networkService: NetworkService,
     private val appPreferences: AppPreferences
