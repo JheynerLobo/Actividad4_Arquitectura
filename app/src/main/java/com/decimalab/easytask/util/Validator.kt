@@ -2,10 +2,6 @@ package com.decimalab.easytask.util
 
 import java.util.regex.Pattern
 
-/**
- * Created by Shakil Ahmed Shaj on 23,April,2020.
- * shakilahmedshaj@gmail.com
- */
 object Validator {
 
     private const val MIN_PASSWORD_LENGTH = 4
