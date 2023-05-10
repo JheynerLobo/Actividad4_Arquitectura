@@ -42,7 +42,6 @@ ___
 
 ##### 1. Clonar el repositorio del proyecto en Laravel
 Para clonar el proyecto abre una terminal o consola de comandos y escribe la siguiente nomenclatura, esto es después de la instrucción git clone agrega tu dirección:
-
 ```sh
 git clone https://github.com/JheynerLobo/Actividad4_Arquitectura
 ```
@@ -60,20 +59,15 @@ Luego será redireccionado a la siguiente pestaña donde seleccionará cualquier
 ![image](https://github.com/JheynerLobo/Actividad4_Arquitectura/assets/84026784/4d579321-4bed-44bb-b47a-c0a582c777d9)
 Luego deberá seleccionará la imagen del sistema, debrá darle a Next y por último a Finish, en este paso tendrá que descargar la imagen, la cual en su mayoría pesa más de 1 Gb y el tiempo de descarga dependerá de la conexión a Internet.
 ![image](https://github.com/JheynerLobo/Actividad4_Arquitectura/assets/84026784/a343fa2a-2b73-40d3-80de-6d364840f060)
-
 ##### 6. Correr el Emulador
 Después de descargar el emulador y la imagen podrá correr el emulador dando click en el cuadrado marcado en la siguiente imagen.
 ![imagen3](https://github.com/JheynerLobo/Actividad4_Arquitectura/assets/84026784/fe6aa2f6-45fd-4942-aa20-fb21caccd689)
-
-
 ### Autores:
-
 1. Luis Fernando López Pacheco 1151519 - luisfernandolp@ufps.edu.co
 2. Angely Natalia García Barrera 1151775 - angelynataliagb@ufps.edu.co
 3. Jheyner Alexander Lobo Duarte 1151785 - jheyneralexanderld@ufps.edu.co
 4. Leider Yesid Martínez Mandón 1151786 - leideryesidmm@ufps.edu.co
 5. Matilde Alexandra Arévalo León 1151788 - matildealexandraal@ufps.edu.co
-
 ___
 ### Institución Académica:
 Proyecto desarrollado en las materias de Análisis y Diseño de Sistemas, Ingeniería de Software y Seminario Integrador III [Programa de Ingeniería de Sistemas](https://ingsistemas.cloud.ufps.edu.co/ "Programa de Ingeniería de Sistemas") de la [Universidad Francisco de Paula Santander](https://ww2.ufps.edu.co/ "Universidad Francisco de Paula Santander")
