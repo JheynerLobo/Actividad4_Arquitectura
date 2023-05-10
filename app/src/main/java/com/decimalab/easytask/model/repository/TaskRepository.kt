@@ -4,10 +4,7 @@ import com.decimalab.easytask.model.local.db.AppDatabase
 import com.decimalab.easytask.model.local.entity.TaskEntity
 import com.decimalab.easytask.model.remote.NetworkService
 
-/**
- * Created by Shakil Ahmed Shaj on 16,April,2020.
- * shakilahmedshaj@gmail.com
- */
+
 class TaskRepository(
     private val networkService: NetworkService,
     private val appDatabase: AppDatabase
