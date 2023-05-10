@@ -1,9 +1,6 @@
 package com.decimalab.easytask.model.remote
 
-/**
- * Created by Shakil Ahmed Shaj on 14,April,2020.
- * shakilahmedshaj@gmail.com
- */
+
 object EndPoints {
 
     const val REGISTER = "api/register"
