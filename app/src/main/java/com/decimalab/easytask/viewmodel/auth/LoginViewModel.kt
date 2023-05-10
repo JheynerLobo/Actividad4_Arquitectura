@@ -17,10 +17,6 @@ import kotlinx.coroutines.Dispatchers.IO
 import retrofit2.HttpException
 import kotlin.Exception
 
-/**
- * Created by Shakil Ahmed Shaj on 14,April,2020.
- * shakilahmedshaj@gmail.com
- */
 class LoginViewModel(application: Application) : AndroidViewModel(application) {
 
     companion object {
