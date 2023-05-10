@@ -8,10 +8,6 @@ import com.decimalab.easytask.model.local.dao.TaskDao
 import com.decimalab.easytask.model.local.entity.TaskEntity
 
 
-/**
- * Created by Shakil Ahmed Shaj on 26,April,2020.
- * shakilahmedshaj@gmail.com
- */
 @Database(entities = [TaskEntity::class], version = 1, exportSchema = false)
 abstract class AppDatabase : RoomDatabase() {
 
