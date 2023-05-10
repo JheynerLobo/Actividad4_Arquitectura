@@ -7,10 +7,6 @@ import okhttp3.MultipartBody
 import okhttp3.RequestBody
 import retrofit2.Response
 
-/**
- * Created by Shakil Ahmed Shaj on 19,April,2020.
- * shakilahmedshaj@gmail.com
- */
 class UserProfileRepository(private val networkService: NetworkService) {
 
     suspend fun getUserProfile(token: String, id: String): Response<UserProfileResponse> = networkService.getUserProfile(token, id)
