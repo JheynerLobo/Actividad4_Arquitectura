@@ -12,10 +12,6 @@ import com.decimalab.easytask.model.remote.Networking
 import com.decimalab.easytask.model.repository.ValidateTokenRepository
 import retrofit2.HttpException
 
-/**
- * Created by Shakil Ahmed Shaj on 15,April,2020.
- * shakilahmedshaj@gmail.com
- */
 class SplashViewModel(application: Application) : AndroidViewModel(application) {
 
     companion object {
