@@ -7,10 +7,6 @@ import com.decimalab.easytask.model.remote.request.task.EditTaskRequest
 import com.decimalab.easytask.model.remote.response.task.EditTaskResponse
 import retrofit2.Response
 
-/**
- * Created by Shakil Ahmed Shaj on 18,April,2020.
- * shakilahmedshaj@gmail.com
- */
 class EditTaskRepository(
     private val networkService: NetworkService,
     private val appDatabase: AppDatabase
