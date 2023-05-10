@@ -6,10 +6,7 @@ import androidx.room.ColumnInfo
 import androidx.room.Entity
 import androidx.room.PrimaryKey
 
-/**
- * Created by Shakil Ahmed Shaj on 26,April,2020.
- * shakilahmedshaj@gmail.com
- */
+
 
 @Entity(tableName = "task_entity")
 data class TaskEntity(
