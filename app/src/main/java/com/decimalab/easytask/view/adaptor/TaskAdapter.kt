@@ -9,10 +9,6 @@ import com.decimalab.easytask.R
 import com.decimalab.easytask.databinding.CustomTaskListViewBinding
 import com.decimalab.easytask.model.local.entity.TaskEntity
 
-/**
- * Created by Shakil Ahmed Shaj on 16,April,2020.
- * shakilahmedshaj@gmail.com
- */
 class TaskAdapter(private val taskList: ArrayList<TaskEntity>) : //ArrayList<TaskResponse>)
     RecyclerView.Adapter<TaskAdapter.ViewHolder>() {
 
